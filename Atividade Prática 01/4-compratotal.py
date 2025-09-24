@@ -1,5 +1,5 @@
-#Este proragra, através da função input, recebe, nome do produtdo, valor e quantiade.
-#Então é calculado o valor total da compra e impresso na tela
+#Este proragra, através da função input, recebe, nome do produto, valor e quantiade.
+#Então é calculado o valor total da compra e impresso na tela o extrato da compra. 
 
 produto    = str(input("Insira o nome do produto: "))
 valor      = float(input("Insira o valor unitário do produto R$: "))
