@@ -1,4 +1,4 @@
-#Neste programa empregamos a formuma que descreve o volume de uma caixa retângular.
+#Neste programa realizamos a formula do volume de uma caixa retângular.
 #O usuário insere as dimensções da caixa, através da função input
 #Através de operadores aritméticos realizamos a operação e atribuímos à uma variável e imprimimos o valor na tela.
 
