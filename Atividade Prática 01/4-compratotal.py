@@ -1,4 +1,5 @@
-#Este proragra, através da função input, recebe, nome do produto, valor e quantiade.
+#Este programa realiza o calculo total de um produto 
+#Através da função input, recebe, nome do produto, valor e quantiade.
 #Então é calculado o valor total da compra e impresso na tela o extrato da compra. 
 
 produto    = str(input("Insira o nome do produto: "))
