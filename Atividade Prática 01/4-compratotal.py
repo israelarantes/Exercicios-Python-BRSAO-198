@@ -1,4 +1,4 @@
-#Este programa realiza o calculo total de um produto 
+#Este programa realiza o calculo total da compra de um produto.
 #Através da função input, recebe, nome do produto, valor e quantiade.
 #Então é calculado o valor total da compra e impresso na tela o extrato da compra. 
 
