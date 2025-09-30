@@ -6,4 +6,4 @@ p3 = float(input("Qual foi a nota da terceira prova?"))
 
 final = (p1+p2+p3)/3
 
-print ("A nota da P1 foi de", p1, " a da P2 foi de", p2 ," e da P3 foi",p3, ". A nota final foi:", final )
+print ("A nota da P1 foi de", "%.2f"%p1, " a da P2 foi de", "%.2f"%p2 ," e da P3 foi","%.2f"%p3, ". A nota final foi:", "%.2f"%final )
